@@ -36,6 +36,7 @@ input{
     text-align: right;
     cursor: pointer;
     color: #ffffff;
+    box-shadow:-5px -5px 10px #3a4452;
 }
 
 input::placeholder{
